@@ -1,0 +1,8 @@
+#!/usr/bin/env python
+# coding=utf-8
+print(b'AVaha'.decode('ascii'))
+print(b'\xe4\xb8\xad\xe6\x96\x87\xe8\x87\xaa\xe7\x84\xb6\xe8\xaf\xad\xe8\xa8\x80\xe5\xa4\x84\xe7\x90\x86'.decode('utf-8'))
+
+#输出如下：
+#AVaha
+#中文自然语言处理
